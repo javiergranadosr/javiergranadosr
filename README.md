@@ -15,7 +15,7 @@ const profile = {
 - :video_game: Playing videogames
 - :computer: Write code
 
-:globe_with_meridians: My website: https://javiergranadosr.github.io/portfolio/
+:globe_with_meridians: https://javiergranadosr.github.io/portfolio/
 
 :mailbox: jgrinformaticgmail.com
 
