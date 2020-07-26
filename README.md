@@ -2,8 +2,8 @@
 `console.log("Hi welcome to my profile")` :computer:
 ~~~
 const profile = {
-  name: Javier Granados Rojas", 
-  description: I'm web developer,
+  name: "Javier Granados Rojas", 
+  description: "I'm web developer",
   skills: "php, mysql, javascript, jquery, vuejs, css, sass, html5, bootstrap, git"
 }  
 ~~~
