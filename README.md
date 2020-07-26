@@ -1,9 +1,18 @@
 ### Love for the web development | :coffee: :heartpulse:
 `console.log("Hi welcome to my profile")` :computer:
 
-`const profile = { myNameIs: Javier Granados Rojas", mySkills: "php, mysql, javascript, jquery, vuejs, css, sass, html5, git"}`
+`const profile = { myNameIs: Javier Granados Rojas", mySkills: "php, mysql, javascript, jquery, vuejs, css, sass, html5, bootstrap, git"}`
+
+### Hobbies 
+
+- :headphones: Listen music 
+- :tv: Watch movies
+- :video_game: Playing videogames
+- :computer: Write code
 
 :globe_with_meridians: My website: https://javiergranadosr.github.io/portfolio/
+
+:mailbox: jgrinformaticgmail.com
 
 
 <!--
