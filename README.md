@@ -10,15 +10,16 @@ const profile = {
 ~~~
 ### Hobbies 
 
-- :headphones: Listen music 
-- :tv: Watch movies
-- :video_game: Playing videogames
-- :computer: Write code
+:headphones: Listen music :tv: Watch movies :video_game: Playing videogames :computer: Write code
+
+### Website
 
 :globe_with_meridians: https://javiergranadosr.github.io/portfolio/
 
-:mailbox: jgrinformaticgmail.com
+### Contact
 
+:mailbox: jgrinformaticgmail.com
+:phone: 982-120-7160
 
 <!--
 **javiergranadosr/javiergranadosr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
