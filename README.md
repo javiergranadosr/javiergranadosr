@@ -1,4 +1,10 @@
+### Love for the web development | :coffee: :heartpulse:
 `console.log("Hi welcome to my profile")` :computer:
+
+`const profile = { myNameIs: Javier Granados Rojas", mySkills: "php, mysql, javascript, jquery, vuejs, css, sass, html5, git"}`
+
+:globe_with_meridians: My website: https://javiergranadosr.github.io/portfolio/
+
 
 <!--
 **javiergranadosr/javiergranadosr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
