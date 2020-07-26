@@ -14,11 +14,6 @@ const profile = {
 - :video_game: Playing videogames
 - :computer: Write code
 
-### Contact
-
-- :mailbox: jgrinformaticgmail.com
-- :phone: 982-120-7160
-
 ### Website
 
 :globe_with_meridians: https://javiergranadosr.github.io/portfolio/
