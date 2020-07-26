@@ -1,7 +1,7 @@
 ### Love for the web development | :coffee: :heartpulse:
 `console.log("Hi welcome to my profile")` :computer:
 
-`const profile = { myNameIs: Javier Granados Rojas", mySkills: "php, mysql, javascript, jquery, vuejs, css, sass, html5, bootstrap, git"}`
+`const profile = {myNameIs: Javier Granados Rojas", mySkills: "php, mysql, javascript, jquery, vuejs, css, sass, html5, bootstrap, git"}`
 
 ### Hobbies 
 
