@@ -5,7 +5,7 @@ const profile = {
   name: "Javier"
   lastname: "Granados Rojas", 
   description: "I'm web developer",
-  skills: "PHP, MYSQL, JAVASCRIPT, JQUERY, REACTJS, CSS, HTML5, BOOTSTRAP, GIT, LARAVEL, MYSQL"
+  skills: "PHP, MYSQL, JAVASCRIPT, JQUERY, REACTJS, CSS, HTML5, BOOTSTRAP, GIT, LARAVEL"
 }  
 ~~~
 ### Hobbies 
