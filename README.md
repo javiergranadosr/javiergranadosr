@@ -2,9 +2,10 @@
 `console.log("Hi welcome to my profile")` :computer:
 ~~~
 const profile = {
-  name: "Javier Granados Rojas", 
+  name: "Javier"
+  lastname: "Granados Rojas", 
   description: "I'm web developer",
-  skills: "php, mysql, javascript, jquery, vuejs, css, sass, html5, bootstrap, git"
+  skills: "PHP, MYSQL, JAVASCRIPT, JQUERY, REACTJS, CSS, HTML5, BOOTSTRAP, GIT, LARAVEL, MYSQL"
 }  
 ~~~
 ### Hobbies 
