@@ -6,7 +6,7 @@ const profile = {
   lastname: "Granados Rojas", 
   description: "I'm web developer",
   frontend: "HTML5, CSS3, JAVASCRIPT, TYPESCRIPT, ANGULAR, BOOSTRAP, PRIMENG",
-  backend: "PHP, LARAVEL,MYSQL"
+  backend: "PHP, LARAVEL,MYSQL",
   others: "GIT, JSON, AJAX, JQUERY"
 }  
 ~~~
