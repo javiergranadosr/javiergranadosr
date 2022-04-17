@@ -4,10 +4,10 @@
 const profile = {
   name: "Javier"
   lastname: "Granados Rojas", 
-  description: "I'm web developer",
-  frontend: "HTML5, CSS3, JAVASCRIPT, TYPESCRIPT, ANGULAR, BOOSTRAP, PRIMENG",
-  backend: "PHP, LARAVEL,MYSQL",
-  others: "GIT, JSON, AJAX, JQUERY"
+  description: "I'm Full stack developer",
+  frontend: "Html5, Css3, Javascript (ES+6), Typescript, Angular, Node js, Bootstrap, Primeng",
+  backend: "Php, Node js, Express, Mysql",
+  others: "Git, Json, Ajax, Jquery, Desarrollo y consumo de apis rest"
 }  
 ~~~
 ### Hobbies 
