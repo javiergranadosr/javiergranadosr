@@ -17,9 +17,7 @@ const profile = {
 - :video_game: Playing videogames
 - :computer: Write code
 
-### Website
 
-:globe_with_meridians: https://javiergranadosr.github.io/portfolio/
 
 <!--
 **javiergranadosr/javiergranadosr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
