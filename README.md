@@ -5,8 +5,8 @@ const profile = {
   name: "Javier"
   lastname: "Granados Rojas", 
   description: "I'm Full stack developer",
-  frontend: "Html5, Css3, Javascript (ES+6), Typescript, Angular, Node js, Bootstrap, Primeng",
-  backend: "Php, Node js, Express, Mysql, Mongo db",
+  frontend: "Html5, Css3, Javascript (ES+6), Typescript, Angular, Node js, Bootstrap, Primeng, Tailwind CSS, Angular material",
+  backend: "Java, Spring, PHP, Node js, Express, Mysql, Mongo db",
   others: "Git, Json, Ajax, Jquery, Desarrollo y consumo de apis rest"
 }  
 ~~~
